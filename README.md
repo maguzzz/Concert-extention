@@ -6,5 +6,6 @@ A brwoser extension to see the current weather
 ## Setup
 1. Add your API key  ``` 'X-RapidAPI-Key': 'Your Key', ```
 2. Change your location by changeing the longitude and latitude ``` const longitude = 16.370097;   const latitude = 48.207585;```
-3. Add the extention to your browser
-4. Enjoy
+3. Change your language by change the text ``` const language= en; ```
+4. Add the extention to your browser
+5. Enjoy
