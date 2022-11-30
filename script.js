@@ -10,10 +10,11 @@ const options = {
 //change this to change the weather location
 const longitude = 16.370097;
 const latitude = 48.207585;
-
+//Change the display language
+const language= en;
 
 //Fetching data
-fetch(`https://dark-sky.p.rapidapi.com/${latitude},${longitude}?lang=de&units=auto&exclude=hourly%2Cdaily%2Cflags`, options)
+fetch(`https://dark-sky.p.rapidapi.com/${latitude},${longitude}?lang=${language}&units=auto&exclude=hourly%2Cdaily%2Cflags`, options)
     //Converting data to json format
 	.then(data => data.json())
     //Getting the html Id and adding the data
