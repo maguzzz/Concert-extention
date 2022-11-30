@@ -14,7 +14,7 @@
     height: 2.3em
 }
 
-.timezone{
+#timezone{
     font-size: 1.3em;
     color: white;
     margin-left: .5em;
@@ -28,7 +28,7 @@
     text-align: center;
 }
 
-.summary{
+#summary{
     font-size: 1.8em;
     font-weight: bold;
     align-items: center;
@@ -38,10 +38,10 @@
     margin-top: 1.6em;
     font-size: 1.8em;
 }
-.temperature{
+#temperature{
  width: 100%;
 }
 
-.windspeed{
+#windspeed{
     width: 100%;
 }
