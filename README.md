@@ -1,3 +1,3 @@
 # Concert-extention
 
-a programm where you can enter your city and look for upcomming concerts
+A extention where you can see the weather
