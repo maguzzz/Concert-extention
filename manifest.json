@@ -1,0 +1,12 @@
+{
+    "name": "Weather Vienna",
+    "version":"1.0.0",
+    "description": "A extension to see Viennas current weather",
+    "manifest_version": 3,
+    "author": "Markus Touray",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Weather Vienna"
+    }
+
+}
